@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Push","A structure to represent a pending push operation to a remote."],["PushStatus","A status representing the result of updating a remote reference."]]});
